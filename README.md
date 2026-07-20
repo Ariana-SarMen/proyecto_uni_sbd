@@ -84,7 +84,7 @@ conductor hacia el pasajero, según el rol del calificador registrado.
 14. Un viaje puede recibir de cero a muchos reclamos, pero cada reclamo debe estar
 asociado a un viaje.
 
-Los entregables técnicos obtenidos incluyen:
+### Los entregables técnicos obtenidos incluyen:
 * **Modelo Conceptual:** creación de Diagramas E/R que organizan gráficamente las 10 entidades y sus relaciones.
 * **Modelo Lógico:** transformación del modelo conceptual a un esquema relacional estrucutrado, asegurando la integridad referencial de los datos mediante el uso adecuado de las PK y FK.
 * **Diccionario:** contrucción de un diccionario de datos que detalla a profundidad la estructura interna de la base de datos.
